@@ -1,0 +1,60 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into on [DATE] between TechCorp Inc., a Delaware corporation ("Disclosing Party"), and DataSolutions LLC, a California limited liability company ("Receiving Party").
+
+RECITALS
+
+WHEREAS, the Disclosing Party possesses certain confidential and proprietary information relating to its business operations, technology, and trade secrets; and
+
+WHEREAS, the Receiving Party desires to receive such confidential information for the purpose of evaluating a potential business relationship;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+"Confidential Information" shall mean all non-public, proprietary, or confidential information disclosed by the Disclosing Party to the Receiving Party, whether orally, in writing, or in any other form, including but not limited to technical data, trade secrets, know-how, research, product plans, products, services, customers, customer lists, markets, software, developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration information, marketing, finances, or other business information.
+
+2. OBLIGATIONS OF RECEIVING PARTY
+
+The Receiving Party agrees to:
+(a) Hold and maintain the Confidential Information in strict confidence for a period of five (5) years from the date of disclosure;
+(b) Not disclose any Confidential Information to third parties without prior written consent;
+(c) Use the Confidential Information solely for the purpose of evaluating the potential business relationship;
+(d) Take reasonable precautions to protect the confidentiality of the information.
+
+3. EXCEPTIONS
+
+The obligations set forth in Section 2 shall not apply to information that:
+(a) Is or becomes publicly available through no breach of this Agreement;
+(b) Was rightfully known by the Receiving Party prior to disclosure;
+(c) Is rightfully received from a third party without breach of any confidentiality obligation;
+(d) Is required to be disclosed by law or court order.
+
+4. RETURN OF MATERIALS
+
+Upon termination of this Agreement or upon request by the Disclosing Party, the Receiving Party shall promptly return or destroy all documents, materials, and other tangible items containing Confidential Information.
+
+5. TERMINATION
+
+This Agreement may be terminated by either party with thirty (30) days written notice to the other party. The obligations of confidentiality shall survive termination for a period of five (5) years.
+
+6. REMEDIES
+
+The Receiving Party acknowledges that any breach of this Agreement may cause irreparable harm to the Disclosing Party, for which monetary damages would be inadequate. Therefore, the Disclosing Party shall be entitled to seek injunctive relief and other equitable remedies.
+
+7. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws principles.
+
+8. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements relating to the subject matter hereof.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+TECHCORP INC.                    DATASOLUTIONS LLC
+
+By: _____________________        By: _____________________
+Name: [Name]                     Name: [Name]
+Title: [Title]                   Title: [Title]
+Date: _______________           Date: _______________

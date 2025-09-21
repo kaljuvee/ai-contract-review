@@ -1,0 +1,17 @@
+streamlit
+langchain
+openai
+exa-py
+python-dotenv
+pymupdf
+python-docx
+langchain-community
+langchain-openai
+pydantic
+pypdf2
+pdfplumber
+docx2txt
+markdown
+beautifulsoup4
+lxml
+pandas
